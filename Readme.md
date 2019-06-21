@@ -6,6 +6,9 @@
 * [header.js](./CS/WebSite/JS/header.js) (VB: [header.js](./VB/WebSite/JS/header.js))
 <!-- default file list end -->
 # Disable check boxes used to multi-select records
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e110/)**
+<!-- run online end -->
 
 
 <p>This demo demonstrates how to disable check boxes used for record multi-selection.</p>
